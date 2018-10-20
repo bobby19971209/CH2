@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author ¤S¤É
+ *
+ */
+module test_p8 {
+	exports test_p8;
+}
